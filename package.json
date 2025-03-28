@@ -1,5 +1,5 @@
 {
-  "name": "BuzzWerl",
+  "name": "buzzwerl",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -10,8 +10,10 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-firebase/app": "^21.12.3",
     "react": "19.0.0",
-    "react-native": "0.78.1"
+    "react-native": "0.78.1",
+    "react-native-rename": "^3.2.16"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",

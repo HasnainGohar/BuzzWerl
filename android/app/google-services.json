@@ -1,0 +1,247 @@
+{
+  "project_info": {
+    "project_number": "106505477405",
+    "firebase_url": "https://buzzwerl-backend-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "buzzwerl-backend",
+    "storage_bucket": "buzzwerl-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106505477405:android:412ea9eafd97379885d5f4",
+        "android_client_info": {
+          "package_name": "com.mycompany.buzzwerl.ImageNotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106505477405-183o7v7fjpbku2pm7usi8guap5kgo1ce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.buzzwerl.ImageNotification",
+            "certificate_hash": "e0953b67991bfa8dd849681b20bcc808bfa9db1e"
+          }
+        },
+        {
+          "client_id": "106505477405-2r27nv6d413l55cedf58pp4dl7l5j4m7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.buzzwerl.ImageNotification",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "106505477405-342md5hihvnsqtvppcpvh3073h0oi8le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUzg-zb4bBW3hJ-_vBqMA4FrUdCsrpwK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106505477405-342md5hihvnsqtvppcpvh3073h0oi8le.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "106505477405-00iqqvi0kg4mmthfrum7r24941euonnj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.buzzwerlwebsite"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106505477405:android:cf62286005bf1a7385d5f4",
+        "android_client_info": {
+          "package_name": "com.mycompany.buzzwerladmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106505477405-eqa6jhn2ug98v11rn9dnum2eagvi237g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.buzzwerladmin",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "106505477405-342md5hihvnsqtvppcpvh3073h0oi8le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUzg-zb4bBW3hJ-_vBqMA4FrUdCsrpwK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106505477405-342md5hihvnsqtvppcpvh3073h0oi8le.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "106505477405-00iqqvi0kg4mmthfrum7r24941euonnj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.buzzwerlwebsite"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106505477405:android:e2a5fe79b2a0b1f785d5f4",
+        "android_client_info": {
+          "package_name": "com.mycompany.buzzwerlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106505477405-9s545jk4gaqu02lhlk93so46gigkai2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.buzzwerlin",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "106505477405-h7phkktcar8b0627itclu9e73jetlh8q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.buzzwerlin",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "106505477405-342md5hihvnsqtvppcpvh3073h0oi8le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUzg-zb4bBW3hJ-_vBqMA4FrUdCsrpwK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106505477405-342md5hihvnsqtvppcpvh3073h0oi8le.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "106505477405-00iqqvi0kg4mmthfrum7r24941euonnj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.buzzwerlwebsite"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106505477405:android:9e0f1f7e132dc16f85d5f4",
+        "android_client_info": {
+          "package_name": "com.mycompany.buzzwerlsk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106505477405-kgb4s14t169b51o5qi7gut5148907vbn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.buzzwerlsk",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "106505477405-342md5hihvnsqtvppcpvh3073h0oi8le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUzg-zb4bBW3hJ-_vBqMA4FrUdCsrpwK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106505477405-342md5hihvnsqtvppcpvh3073h0oi8le.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "106505477405-00iqqvi0kg4mmthfrum7r24941euonnj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.buzzwerlwebsite"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106505477405:android:d0e7cbff02f7011d85d5f4",
+        "android_client_info": {
+          "package_name": "com.mycompany.buzzwerlwebsite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106505477405-apo3ivt93mt5sh8csr12q21l5frnl1ss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.buzzwerlwebsite",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "106505477405-342md5hihvnsqtvppcpvh3073h0oi8le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUzg-zb4bBW3hJ-_vBqMA4FrUdCsrpwK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106505477405-342md5hihvnsqtvppcpvh3073h0oi8le.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "106505477405-00iqqvi0kg4mmthfrum7r24941euonnj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.buzzwerlwebsite"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

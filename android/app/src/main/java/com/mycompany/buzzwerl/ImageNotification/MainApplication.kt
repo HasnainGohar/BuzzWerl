@@ -1,4 +1,4 @@
-package com.buzzwerl
+package com.mycompany.buzzwerl.ImageNotification
 
 import android.app.Application
 import com.facebook.react.PackageList

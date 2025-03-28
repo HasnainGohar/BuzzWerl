@@ -1,4 +1,4 @@
-package com.buzzwerl
+package com.mycompany.buzzwerl.ImageNotification
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
