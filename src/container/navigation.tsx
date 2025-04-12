@@ -7,7 +7,8 @@ import AntDesign from 'react-native-vector-icons/AntDesign';
 import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityIcons';
 
 import Home from './Home';
-import BuzzPay from './BuzzPay';
+import BuzzPay from './buzzPay/BuzzPay';
+import NfcCharge from './NfcCharge';
 
 const Bottom = createBottomTabNavigator();
 const BottomTabNavigator = () => {
@@ -53,7 +54,7 @@ const BottomTabNavigator = () => {
             />
             <Bottom.Screen
                 name="AddEvent"
-                component={BuzzPay}
+                component={NfcCharge}
             />
             <Bottom.Screen
                 name="Messages"
